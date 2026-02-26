@@ -1,0 +1,24 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "age".(œ¿ô¿úÿÿÿÿ8­¦È’Å3
+X	java:S125"<This block of commented-out lines of code should be removed.(Òû”Ó8„áÆ’Å3
+J
+java:S1481"(Remove this unused "age" local variable.(œ¿ô¿úÿÿÿÿ8®¦È’Å3
+D
+java:S1481"'Remove this unused "tr" local variable.(âÚœ¦8¯¦È’Å3
+]	java:S125"<This block of commented-out lines of code should be removed.(èˆ®©úÿÿÿÿ8‹áÆ’Å3
+W	java:S125"<This block of commented-out lines of code should be removed.(§£Šv8áÆ’Å3
+X	java:S125"<This block of commented-out lines of code should be removed.(Í¾¸±8¯¦È’Å3
+]	java:S125#"<This block of commented-out lines of code should be removed.(úÉÁ…úÿÿÿÿ8ŽáÆ’Å3
+X	java:S125+"<This block of commented-out lines of code should be removed.(‰ŒùÍ8ŽáÆ’Å3
+X	java:S1251"<This block of commented-out lines of code should be removed.(ÔðÉ8‘áÆ’Å3
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(“ ì8’áÆ’Å3
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ØÒº…üÿÿÿÿ8“áÆ’Å3
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Áªªóøÿÿÿÿ8”áÆ’Å3
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(²¿éþÿÿÿÿ8”áÆ’Å3
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Â Úúÿÿÿÿ8”áÆ’Å3
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(é‡ß8•áÆ’Å3
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ðª€Üùÿÿÿÿ8ÈèÑ’Å3
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(ï¼ŠŽùÿÿÿÿ8ºÇÔ’Å3
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8•áÆ’Å3

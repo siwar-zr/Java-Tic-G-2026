@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8Û²¯Ç3
+]	java:S125"<This block of commented-out lines of code should be removed.(æ®ƒúÿÿÿÿ8İ²¯Ç3
+Z
+java:S1854("8Remove this useless assignment to local variable "data".(®Á¥¦ûÿÿÿÿ8İ²¯Ç3
+K
+java:S1481(")Remove this unused "data" local variable.(®Á¥¦ûÿÿÿÿ8ß²¯Ç3
+W	java:S125*"<This block of commented-out lines of code should be removed.(°—¿8ß²¯Ç3
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(¹ÂË‡8ß²¯Ç3
+]	java:S125."<This block of commented-out lines of code should be removed.(ÄÕŸ¥úÿÿÿÿ8ß²¯Ç3
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Ú¶ü«şÿÿÿÿ8ß²¯Ç3
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¾øıÛ8ß²¯Ç3
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(ô¹†àùÿÿÿÿ8²·¯Ç3
+]	java:S1256"<This block of commented-out lines of code should be removed.(¼©™Ûüÿÿÿÿ8ß²¯Ç3
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ß²¯Ç3

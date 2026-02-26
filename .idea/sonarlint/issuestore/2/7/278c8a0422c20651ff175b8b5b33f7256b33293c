@@ -1,0 +1,68 @@
+
+W
+java:S1854'"5Remove this useless assignment to local variable "x".(·™ãİşÿÿÿÿ8ßÃûÅ3
+W
+java:S1854$"5Remove this useless assignment to local variable "x".(ñÅï‹ùÿÿÿÿ8²õøÅ3
+X
+java:S1854"6Remove this useless assignment to local variable "ch".(ƒÿĞóüÿÿÿÿ8²õøÅ3
+X
+java:S1854"6Remove this useless assignment to local variable "d1".(—øµóøÿÿÿÿ8²õøÅ3
+Z
+java:S1854"8Remove this useless assignment to local variable "num4".(Ç†»‚üÿÿÿÿ8²õøÅ3
+U
+java:S1854"8Remove this useless assignment to local variable "num3".(‹ÉÖÎ8³õøÅ3
+T
+java:S1854"8Remove this useless assignment to local variable "num2".(›·;8³õøÅ3
+Z
+java:S1854"8Remove this useless assignment to local variable "num1".(Ñ˜¢Ÿşÿÿÿÿ8³õøÅ3
+W
+java:S1854"5Remove this useless assignment to local variable "c".(±Ï…ëûÿÿÿÿ8³õøÅ3
+R
+java:S1854	"5Remove this useless assignment to local variable "d".(ƒœ£ë8³õøÅ3
+Q
+java:S1854"5Remove this useless assignment to local variable "f".(ÜÁ“8³õøÅ3
+W
+java:S1854"5Remove this useless assignment to local variable "l".(ô™šüÿÿÿÿ8³õøÅ3
+X
+java:S1854"6Remove this useless assignment to local variable "sh".(Šşğğúÿÿÿÿ8³õøÅ3
+X
+java:S1854"6Remove this useless assignment to local variable "by".(¸¬óºøÿÿÿÿ8³õøÅ3
+T
+java:S1854"7Remove this useless assignment to local variable "num".(ÏŠˆÓ8³õøÅ3
+E
+java:S1481"(Remove this unused "num" local variable.(ÏŠˆÓ8³õøÅ3
+I
+java:S1481"'Remove this unused "by" local variable.(¸¬óºøÿÿÿÿ8³õøÅ3
+I
+java:S1481"'Remove this unused "sh" local variable.(Šşğğúÿÿÿÿ8³õøÅ3
+H
+java:S1481"&Remove this unused "l" local variable.(ô™šüÿÿÿÿ8³õøÅ3
+B
+java:S1481"&Remove this unused "f" local variable.(ÜÁ“8´õøÅ3
+C
+java:S1481	"&Remove this unused "d" local variable.(ƒœ£ë8´õøÅ3
+H
+java:S1481"&Remove this unused "c" local variable.(±Ï…ëûÿÿÿÿ8´õøÅ3
+C
+java:S1481"&Remove this unused "b" local variable.(ÛºŠê8´õøÅ3
+K
+java:S1481")Remove this unused "num1" local variable.(Ñ˜¢Ÿşÿÿÿÿ8´õøÅ3
+E
+java:S1481")Remove this unused "num2" local variable.(›·;8´õøÅ3
+]	java:S125"<This block of commented-out lines of code should be removed.(™ÎÓÍøÿÿÿÿ8´õøÅ3
+F
+java:S1481")Remove this unused "num3" local variable.(‹ÉÖÎ8´õøÅ3
+X	java:S125"<This block of commented-out lines of code should be removed.(“Ú»í8µõøÅ3
+K
+java:S1481")Remove this unused "num4" local variable.(Ç†»‚üÿÿÿÿ8µõøÅ3
+]	java:S125"<This block of commented-out lines of code should be removed.(íºà¸úÿÿÿÿ8µõøÅ3
+I
+java:S1481"'Remove this unused "d1" local variable.(—øµóøÿÿÿÿ8µõøÅ3
+W	java:S125"<This block of commented-out lines of code should be removed.(¡½p8µõøÅ3
+D
+java:S1481"'Remove this unused "ch" local variable.(ë£ıú8µõøÅ3
+]	java:S125 "<This block of commented-out lines of code should be removed.(‚˜ªéúÿÿÿÿ8µõøÅ3
+H
+java:S1481$"&Remove this unused "x" local variable.(ñÅï‹ùÿÿÿÿ8âÃûÅ3
+X	java:S125)"<This block of commented-out lines of code should be removed.(±İÊ²8âÃûÅ3
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8àŸùÅ3
