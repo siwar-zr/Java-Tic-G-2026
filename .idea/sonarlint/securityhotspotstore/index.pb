@@ -7,8 +7,6 @@ B
 src/Hello.java,2\7\278c8a0422c20651ff175b8b5b33f7256b33293c
 >
 src/Loops.java,7\e\7e990ec1fd29c5c32d90e8c96a8fa39b9fd50877
-A
-src/Tableaux.java,8\6\86e9c8d501e20f3cdfbd6d25ce992a72b2e80909
 ?
 src/Chaine.java,f\b\fb7d1c839ae1e21f3516893351c9bfdaf909184f
 >
